@@ -19,3 +19,13 @@ Engine quantitativo sviluppato in Python per l'ottimizzazione dell'asset allocat
 1. Clona il repository: `git clone https://github.com/ivyleagueproject28-lang/Quant-Risk-Engine.git`
 2. Installa le dipendenze: `pip install -r requirements.txt`
 3. Apri il notebook presente in `notebooks/` su Google Colab o Jupyter.
+# Quantitative Risk & Portfolio Optimization Engine 📈
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quant-risk-engine-akcvnqgtk6jxjfcrg3dcsr.streamlit.app/)
+
+## 🚀 Live Demo & Risorse
+- **Web App Interattiva:** [Quant Portfolio Engine su Streamlit Cloud](https://quant-risk-engine-akcvnqgtk6jxjfcrg3dcsr.streamlit.app/)
+- **Report Tecnico (PDF):** Disponibile nella documentazione del repository.
+
+## Descrizione del Progetto
+Engine quantitativo sviluppato in Python per l'ottimizzazione dell'asset allocation e la gestione del rischio di portafoglio. Basato sulla **Modern Portfolio Theory (MPT)** di Markowitz e sull'analisi dei rischi estremi.
