@@ -4,3 +4,5 @@ numpy
 matplotlib
 streamlit
 plotly
+scipy
+fpdf2
